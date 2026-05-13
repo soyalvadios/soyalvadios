@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hola, soy David
 
-<!--
-**soyalvadios/soyalvadios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante Universitario de Temascalcingo México, orgullosamente Colibrí.
 
-Here are some ideas to get you started:
+* Next.js
+* TypeScript
+* Automatización
+* UI/UX
+* Sistemas web institucionales
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos destacados
+
+* Portal ODAPAS Temascalcingo
+* Automatizaciones IA
+* Bots y asistentes
+* Herramientas web
+* 
+## 🛠 Stack
+
+* React
+* Next.js
+* TypeScript
+* Node.js
+* Tailwind
+* Git
+
+## 📫 Contacto
+
+* GitHub: github.com/soyalvadios
+* IG: https://www.instagram.com/soy_alvadios/
