@@ -1,12 +1,5 @@
 # 👋 Hola, soy David Alvarado
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soyalvadios&show_icons=true&theme=radical"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyalvadios&layout=compact&theme=radical"/>
-</p>
-
 ### Fullstack Developer · IA · Automatización · UI/UX
 
 🇲🇽 Temascalcingo, Estado de México
@@ -46,7 +39,7 @@ Bot de WhatsApp para atención automatizada en clínica psicológica.
 
 ### 🎓 MultiXita
 
-Sistema universitario con reconocimiento facial y control de acceso.
+Sistema universitario integral para alumnos, docentes y administrativos.
 
 ---
 
@@ -55,5 +48,3 @@ Sistema universitario con reconocimiento facial y control de acceso.
 [Instagram](https://www.instagram.com/soy_alvadios/) · [GitHub](https://github.com/soyalvadios)
 
 ---
-
-### ⚡ Construyendo sistemas con identidad.
