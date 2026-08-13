@@ -3,7 +3,7 @@
 ### Fullstack Developer · IA · Automatización · UI/UX
 
 🇲🇽 Temascalcingo, Estado de México
-Proudly Colibrí 🕊️
+& Proudly Colibrí 🕊️
 
 ---
 
@@ -40,6 +40,10 @@ Bot de WhatsApp para atención automatizada en clínica psicológica.
 ### 🎓 MultiXita
 
 Sistema universitario integral para alumnos, docentes y administrativos.
+
+### 🫂 Acompañame
+
+App de acompañamiento emocional no clinico con identificación de señales de riesgo y arquitectura local.
 
 ---
 
