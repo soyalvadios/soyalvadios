@@ -23,7 +23,7 @@
 
 <h3>Sobre mí</h3>
 
-<p>Construyo sistemas que entran a producción y se quedan ahí. No sólo escribo el código: también administro el servidor donde corre, el DNS, los certificados y los respaldos. Cuando entrego, no desaparezco.</p>
+<p>Construyo soluciones para el día a día.</p>
 
 <ul>
   <li>Portales y trámites para organismos públicos</li>
@@ -39,8 +39,6 @@
 <td width="40%" valign="top" align="center">
 
 <img src="assets/yamal.gif" width="100%" alt="Lamine Yamal encarando defensas">
-
-<sub><b>Regate corto, entrega limpia.</b><br>Lo mismo le pido al código.</sub>
 
 </td>
 </tr>
@@ -90,16 +88,12 @@
 
 ## En producción
 
-Los indicadores se consultan en vivo. Si alguno dice «caído», está caído de verdad.
-
 | Proyecto | Qué resuelve | Stack | Estado |
 |---|---|---|---|
 | **[ODAPAS Temascalcingo](https://odapastemascalcingo.com.mx)** | Portal del organismo municipal de agua potable: trámites, pagos y reportes ciudadanos | Next.js · TypeScript · Tailwind | ![](https://img.shields.io/website?url=https%3A%2F%2Fodapastemascalcingo.com.mx&style=flat-square&label=&up_message=en%20l%C3%ADnea&up_color=0F766E&down_message=ca%C3%ADdo&down_color=B91C1C) |
 | **[Pak Express](https://pakexpress.com.mx/es/)** | Logística internacional bilingüe, con cotización y rastreo de envíos | Python · Flask · SQLite | ![](https://img.shields.io/website?url=https%3A%2F%2Fpakexpress.com.mx%2Fes%2F&style=flat-square&label=&up_message=en%20l%C3%ADnea&up_color=0F766E&down_message=ca%C3%ADdo&down_color=B91C1C) |
 | **[Aire León](https://aireleon.com.mx)** | Captación por WhatsApp para un servicio de aire acondicionado en Naucalpan y zona metropolitana | HTML · CSS · JS · Node | ![](https://img.shields.io/website?url=https%3A%2F%2Faireleon.com.mx&style=flat-square&label=&up_message=en%20l%C3%ADnea&up_color=0F766E&down_message=ca%C3%ADdo&down_color=B91C1C) |
 | **[Mi portafolio](https://soyalvadios.colibries.world/)** | Sitio bilingüe es/en, HTML y CSS a mano, sin framework ni build | HTML · CSS · JS | ![](https://img.shields.io/website?url=https%3A%2F%2Fsoyalvadios.colibries.world&style=flat-square&label=&up_message=en%20l%C3%ADnea&up_color=0F766E&down_message=ca%C3%ADdo&down_color=B91C1C) |
-| **Bien Mental** | Bot de WhatsApp que atiende, agenda, cobra y recuerda las citas de un consultorio psicológico | Python · Baileys · MySQL | ![](https://img.shields.io/badge/-en%20l%C3%ADnea-0F766E?style=flat-square) |
-| **Acompáñame — servidor** | Backend de la app móvil de acompañamiento emocional. Semanas de servicio sin reinicios | Node · Express · TypeScript | ![](https://img.shields.io/badge/-red%20interna-0F172A?style=flat-square) |
 
 ---
 
@@ -167,29 +161,6 @@ Landing institucional de mi propia universidad. HTML, CSS y JavaScript puro, sin
 </td>
 </tr>
 </table>
-
-<sub>La mayoría de mis repositorios son privados porque son código de clientes. Lo que se puede abrir, está abierto: <a href="https://github.com/soyalvadios?tab=repositories">ver todos los públicos</a>.</sub>
-
----
-
-## Infraestructura propia
-
-No alquilo un panel: administro el servidor.
-
-```text
-VPS Linux          nginx como reverse proxy, un vhost por subdominio
-Procesos           pm2 con arranque en boot y reinicio ante fallo
-TLS                certbot / Let's Encrypt, renovación automática
-DNS                zona propia en colibries.world, un host por proyecto
-Despliegue         estático en Vercel, dinámico en el VPS
-Respaldos          base de datos y archivos, programados
-```
-
-| Dónde vivo en línea | Qué es |
-|---|---|
-| [soyalvadios.colibries.world](https://soyalvadios.colibries.world/) | Portafolio en español |
-| [soyalvadios.colibries.world/en](https://soyalvadios.colibries.world/en/) | Portafolio en inglés |
-| [delfin.colibries.world](https://delfin.colibries.world/) | Acompáñame en el Programa Delfín 2026 |
 
 ---
 
