@@ -1,54 +1,183 @@
-# 👋 Hola, soy David Alvarado
+<div align="center">
 
-### Fullstack Developer · IA · Automatización · UI/UX
+<h1>David Alvarado</h1>
 
-🇲🇽 Temascalcingo, Estado de México
-& Proudly Colibrí 🕊️
+<p>
+  <b>Desarrollador de software independiente</b><br>
+  Plataformas institucionales · Bots de WhatsApp · Apps móviles · Hardware
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Temascalcingo-Estado%20de%20M%C3%A9xico-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Temascalcingo, Estado de México">
+  <a href="https://soyalvadios.colibries.world/"><img src="https://img.shields.io/badge/Sitio-soyalvadios.colibries.world-1D4ED8?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Sitio"></a>
+  <a href="mailto:alvaradoccdavid@hotmail.com"><img src="https://img.shields.io/badge/Correo-escr%C3%ADbeme-0F766E?style=for-the-badge&logo=maildotru&logoColor=white" alt="Correo"></a>
+  <a href="https://www.instagram.com/soy_alvadios/"><img src="https://img.shields.io/badge/Instagram-soy__alvadios-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
+
+</div>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+<h3>Sobre mí</h3>
+
+<p>Construyo sistemas que entran a producción y se quedan ahí. No sólo escribo el código: también administro el servidor donde corre, los respaldos y los certificados.</p>
+
+<ul>
+  <li>Portales y trámites para organismos públicos</li>
+  <li>Bots de WhatsApp que agendan, cobran y recuerdan</li>
+  <li>Apps móviles con cifrado y procesamiento en el dispositivo</li>
+  <li>Automatización de procesos e integración de APIs</li>
+  <li>Hardware: Arduino y control por app</li>
+</ul>
+
+<p>Licenciatura en Informática Administrativa y Financiera, Universidad Mexiquense del Bicentenario. Trabajo en español e inglés, presencial en la región o remoto.</p>
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="assets/yamal.gif" width="100%" alt="Lamine Yamal encarando defensas">
+
+<sub><b>Regate corto, entrega limpia.</b><br>Lo mismo pido del código.</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Sobre mí
+## Stack
 
-Construyo sistemas web, automatizaciones y herramientas con IA enfocadas en resolver problemas reales.
+**Lenguajes**
 
-Me especializo en:
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-* plataformas institucionales
-* bots y asistentes
-* automatización de procesos
-* interfaces modernas
-* integración de APIs
+**Interfaz**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=flat-square&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Servidor y datos**
+
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Infraestructura**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
 
 ---
 
-## 🛠 Stack
+## En producción
 
-`Next.js` · `React` · `TypeScript` · `Node.js` · `Python` · `TailwindCSS` · `MySQL` · `Git`
+Los indicadores de abajo se consultan en vivo. Si uno dice «caído», está caído de verdad.
+
+| Proyecto | Qué resuelve | Stack | Estado |
+|---|---|---|---|
+| **[ODAPAS Temascalcingo](https://odapastemascalcingo.com.mx)** | Portal del organismo municipal de agua: trámites, pagos y reportes | Next.js · TypeScript · Tailwind | ![](https://img.shields.io/website?url=https%3A%2F%2Fodapastemascalcingo.com.mx&style=flat-square&label=&up_message=en%20l%C3%ADnea&up_color=0F766E&down_message=ca%C3%ADdo&down_color=B91C1C) |
+| **[Pak Express](https://pakexpress.com.mx/es/)** | Logística internacional bilingüe con cotización y rastreo | Python · Flask · SQLite | ![](https://img.shields.io/website?url=https%3A%2F%2Fpakexpress.com.mx%2Fes%2F&style=flat-square&label=&up_message=en%20l%C3%ADnea&up_color=0F766E&down_message=ca%C3%ADdo&down_color=B91C1C) |
+| **[Aire León](https://aireleon.com.mx)** | Captación de clientes por WhatsApp para un negocio de clima | HTML · CSS · JS · Node | ![](https://img.shields.io/website?url=https%3A%2F%2Faireleon.com.mx&style=flat-square&label=&up_message=en%20l%C3%ADnea&up_color=0F766E&down_message=ca%C3%ADdo&down_color=B91C1C) |
+| **Bien Mental** | Bot de WhatsApp que atiende, agenda, cobra y recuerda citas de un consultorio psicológico | Python · Baileys · MySQL | ![](https://img.shields.io/badge/-en%20l%C3%ADnea-0F766E?style=flat-square) |
+| **Acompáñame — servidor** | Backend de la app móvil de acompañamiento emocional | Node · Express · TypeScript | ![](https://img.shields.io/badge/-red%20interna-0F172A?style=flat-square) |
 
 ---
 
-## 🌟 Proyectos
+## Proyectos
 
-### 💧 Portal ODAPAS Temascalcingo
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Portal institucional moderno para servicios ciudadanos.
+### 🫂 Acompáñame
 
-### 🤖 Bien Mental
+App móvil de acompañamiento emocional no clínico. Todo lo que el usuario escribe se cifra con **AES-256 y nunca sale del teléfono**; la detección de señales de riesgo corre en el propio dispositivo.
 
-Bot de WhatsApp para atención automatizada en clínica psicológica.
+26 pantallas · React Native · Expo · TypeScript
+
+</td>
+<td width="50%" valign="top">
 
 ### 🎓 MultiXita
 
-Sistema universitario integral para alumnos, docentes y administrativos.
+Plataforma universitaria. Empezó sustituyendo la libreta de papel de la entrada por una credencial digital con QR y creció hasta la gestión académica completa, con un botón **SOS que se dispara sacudiendo el teléfono**.
 
-### 🫂 Acompañame
+En desarrollo · Expo · Node · MySQL
 
-App de acompañamiento emocional no clinico con identificación de señales de riesgo y arquitectura local.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🪟 [AppVentana](https://github.com/soyalvadios/AppVentana)
+
+Apertura motorizada de las ventanas altas de un salón de clases. Motor a pasos, Arduino y una app de tres botones.
+
+Entregado · C++ · Arduino
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 Registro vehicular UMB
+
+Alta de alumnos y ficha consultable por código QR en la caseta de acceso del campus.
+
+Entregado
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Contacto
+## Programa Delfín 2026
 
-[Instagram](https://www.instagram.com/soy_alvadios/) · [GitHub](https://github.com/soyalvadios)
+Participé en el **XXXI Verano de la Investigación Científica y Tecnológica del Pacífico** con *Acompáñame*, asesorado por la UAEMéx, y presenté el cartel en el Congreso Internacional con la delegación de la Universidad Mexiquense del Bicentenario, sede Temascalcingo.
+
+La crónica y las fotos: **[soyalvadios.colibries.world/#delfin](https://soyalvadios.colibries.world/#delfin)**
+
+> A quien dude en aplicar: hazlo. El programa regresa más de lo que uno le lleva.
 
 ---
+
+## Cómo trabajo
+
+```text
+1 · Lo que no existe no falla     Una función especulativa no se construye.
+2 · Primero lo que ya existe      Una herramienta de más tiene que justificarse.
+3 · La seguridad no va al final   Se decide el primer día si hay datos de personas.
+4 · Verificar antes de entregar   "Debería funcionar" no es una entrega.
+5 · Cero secretos en el repo      Credenciales en variables de entorno.
+6 · No desaparezco al entregar    Servidor, respaldos y certificados quedan atendidos.
+```
+
+---
+
+<div align="center">
+
+### Contacto
+
+Cuéntame el problema a resolver y quién lo va a usar. Contesto el mismo día.<br>
+Precio y plazo por escrito, sin compromiso.
+
+<a href="mailto:alvaradoccdavid@hotmail.com"><img src="https://img.shields.io/badge/alvaradoccdavid@hotmail.com-0F172A?style=for-the-badge&logo=maildotru&logoColor=white" alt="Correo"></a>
+<a href="https://soyalvadios.colibries.world/"><img src="https://img.shields.io/badge/Portafolio-1D4ED8?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portafolio"></a>
+
+<sub><a href="https://soyalvadios.colibries.world/en/">Read this in English on my site →</a></sub>
+
+</div>
