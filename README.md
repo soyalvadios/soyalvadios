@@ -1,10 +1,11 @@
 <div align="center">
 
-<h1>David Alvarado</h1>
+<h1>David Alvarado Correa</h1>
 
 <p>
   <b>Desarrollador de software independiente</b><br>
-  Plataformas institucionales · Bots de WhatsApp · Apps móviles · Hardware
+  Plataformas institucionales · Bots de WhatsApp · Apps móviles · Hardware<br>
+  <sub>Pragmático, estudiante universitario, mexicano. Proudly Colibrí 🕊️</sub>
 </p>
 
 <p>
@@ -22,24 +23,24 @@
 
 <h3>Sobre mí</h3>
 
-<p>Construyo sistemas que entran a producción y se quedan ahí. No sólo escribo el código: también administro el servidor donde corre, los respaldos y los certificados.</p>
+<p>Construyo sistemas que entran a producción y se quedan ahí. No sólo escribo el código: también administro el servidor donde corre, el DNS, los certificados y los respaldos. Cuando entrego, no desaparezco.</p>
 
 <ul>
   <li>Portales y trámites para organismos públicos</li>
-  <li>Bots de WhatsApp que agendan, cobran y recuerdan</li>
-  <li>Apps móviles con cifrado y procesamiento en el dispositivo</li>
+  <li>Bots de WhatsApp que atienden, agendan, cobran y recuerdan</li>
+  <li>Apps móviles con cifrado y procesamiento en el propio dispositivo</li>
   <li>Automatización de procesos e integración de APIs</li>
-  <li>Hardware: Arduino y control por app</li>
+  <li>Hardware: Arduino, motores y control por app</li>
 </ul>
 
-<p>Licenciatura en Informática Administrativa y Financiera, Universidad Mexiquense del Bicentenario. Trabajo en español e inglés, presencial en la región o remoto.</p>
+<p>Estudio la <b>Licenciatura en Informática Administrativa y Financiera</b> en la Universidad Mexiquense del Bicentenario, sede Temascalcingo. Trabajo en español e inglés, presencial en la región o remoto.</p>
 
 </td>
 <td width="40%" valign="top" align="center">
 
 <img src="assets/yamal.gif" width="100%" alt="Lamine Yamal encarando defensas">
 
-<sub><b>Regate corto, entrega limpia.</b><br>Lo mismo pido del código.</sub>
+<sub><b>Regate corto, entrega limpia.</b><br>Lo mismo le pido al código.</sub>
 
 </td>
 </tr>
@@ -56,6 +57,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 
 **Interfaz**
 
@@ -78,23 +81,25 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ## En producción
 
-Los indicadores de abajo se consultan en vivo. Si uno dice «caído», está caído de verdad.
+Los indicadores se consultan en vivo. Si alguno dice «caído», está caído de verdad.
 
 | Proyecto | Qué resuelve | Stack | Estado |
 |---|---|---|---|
-| **[ODAPAS Temascalcingo](https://odapastemascalcingo.com.mx)** | Portal del organismo municipal de agua: trámites, pagos y reportes | Next.js · TypeScript · Tailwind | ![](https://img.shields.io/website?url=https%3A%2F%2Fodapastemascalcingo.com.mx&style=flat-square&label=&up_message=en%20l%C3%ADnea&up_color=0F766E&down_message=ca%C3%ADdo&down_color=B91C1C) |
-| **[Pak Express](https://pakexpress.com.mx/es/)** | Logística internacional bilingüe con cotización y rastreo | Python · Flask · SQLite | ![](https://img.shields.io/website?url=https%3A%2F%2Fpakexpress.com.mx%2Fes%2F&style=flat-square&label=&up_message=en%20l%C3%ADnea&up_color=0F766E&down_message=ca%C3%ADdo&down_color=B91C1C) |
-| **[Aire León](https://aireleon.com.mx)** | Captación de clientes por WhatsApp para un negocio de clima | HTML · CSS · JS · Node | ![](https://img.shields.io/website?url=https%3A%2F%2Faireleon.com.mx&style=flat-square&label=&up_message=en%20l%C3%ADnea&up_color=0F766E&down_message=ca%C3%ADdo&down_color=B91C1C) |
-| **Bien Mental** | Bot de WhatsApp que atiende, agenda, cobra y recuerda citas de un consultorio psicológico | Python · Baileys · MySQL | ![](https://img.shields.io/badge/-en%20l%C3%ADnea-0F766E?style=flat-square) |
-| **Acompáñame — servidor** | Backend de la app móvil de acompañamiento emocional | Node · Express · TypeScript | ![](https://img.shields.io/badge/-red%20interna-0F172A?style=flat-square) |
+| **[ODAPAS Temascalcingo](https://odapastemascalcingo.com.mx)** | Portal del organismo municipal de agua potable: trámites, pagos y reportes ciudadanos | Next.js · TypeScript · Tailwind | ![](https://img.shields.io/website?url=https%3A%2F%2Fodapastemascalcingo.com.mx&style=flat-square&label=&up_message=en%20l%C3%ADnea&up_color=0F766E&down_message=ca%C3%ADdo&down_color=B91C1C) |
+| **[Pak Express](https://pakexpress.com.mx/es/)** | Logística internacional bilingüe, con cotización y rastreo de envíos | Python · Flask · SQLite | ![](https://img.shields.io/website?url=https%3A%2F%2Fpakexpress.com.mx%2Fes%2F&style=flat-square&label=&up_message=en%20l%C3%ADnea&up_color=0F766E&down_message=ca%C3%ADdo&down_color=B91C1C) |
+| **[Aire León](https://aireleon.com.mx)** | Captación por WhatsApp para un servicio de aire acondicionado en Naucalpan y zona metropolitana | HTML · CSS · JS · Node | ![](https://img.shields.io/website?url=https%3A%2F%2Faireleon.com.mx&style=flat-square&label=&up_message=en%20l%C3%ADnea&up_color=0F766E&down_message=ca%C3%ADdo&down_color=B91C1C) |
+| **[Mi portafolio](https://soyalvadios.colibries.world/)** | Sitio bilingüe es/en, HTML y CSS a mano, sin framework ni build | HTML · CSS · JS | ![](https://img.shields.io/website?url=https%3A%2F%2Fsoyalvadios.colibries.world&style=flat-square&label=&up_message=en%20l%C3%ADnea&up_color=0F766E&down_message=ca%C3%ADdo&down_color=B91C1C) |
+| **Bien Mental** | Bot de WhatsApp que atiende, agenda, cobra y recuerda las citas de un consultorio psicológico | Python · Baileys · MySQL | ![](https://img.shields.io/badge/-en%20l%C3%ADnea-0F766E?style=flat-square) |
+| **Acompáñame — servidor** | Backend de la app móvil de acompañamiento emocional. Semanas de servicio sin reinicios | Node · Express · TypeScript | ![](https://img.shields.io/badge/-red%20interna-0F172A?style=flat-square) |
 
 ---
 
@@ -106,50 +111,93 @@ Los indicadores de abajo se consultan en vivo. Si uno dice «caído», está ca�
 
 ### 🫂 Acompáñame
 
-App móvil de acompañamiento emocional no clínico. Todo lo que el usuario escribe se cifra con **AES-256 y nunca sale del teléfono**; la detección de señales de riesgo corre en el propio dispositivo.
+App móvil de acompañamiento emocional **no clínico**. Todo lo que el usuario escribe se cifra con **AES-256 y nunca sale del teléfono**; la detección de señales de riesgo corre en el propio dispositivo, no en un servidor.
 
-26 pantallas · React Native · Expo · TypeScript
+`26 pantallas` · React Native · Expo · TypeScript
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎓 MultiXita
 
-Plataforma universitaria. Empezó sustituyendo la libreta de papel de la entrada por una credencial digital con QR y creció hasta la gestión académica completa, con un botón **SOS que se dispara sacudiendo el teléfono**.
+Plataforma universitaria. Empezó sustituyendo la libreta de papel de la entrada por una credencial digital con QR, creció hasta la gestión académica completa y sumó un **botón SOS que se dispara sacudiendo el teléfono** y avisa al personal autorizado.
 
-En desarrollo · Expo · Node · MySQL
+`En desarrollo` · Expo · Node · MySQL
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🪟 [AppVentana](https://github.com/soyalvadios/AppVentana)
+### 📻 [Nopales Radio](https://github.com/soyalvadios/nopales-radio)
 
-Apertura motorizada de las ventanas altas de un salón de clases. Motor a pasos, Arduino y una app de tres botones.
+Radio mexicana en streaming: **50+ estaciones** de CDMX, favoritos y búsqueda que funcionan sin internet, reproducción en segundo plano y temporizador. Sin anuncios y sin cuenta.
 
-Entregado · C++ · Arduino
+`MIT` · Expo · React Native · TypeScript
 
 </td>
 <td width="50%" valign="top">
 
+### 🪟 [AppVentana](https://github.com/soyalvadios/AppVentana)
+
+Apertura motorizada de las ventanas altas de un salón de clases. **Motor a pasos, Arduino UNO y Bluetooth HC-05**, con una app de tres botones hecha en MIT App Inventor.
+
+`Funcional` · C++ · Arduino
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🚗 Registro vehicular UMB
 
-Alta de alumnos y ficha consultable por código QR en la caseta de acceso del campus.
+Alta de alumnos y ficha consultable por código QR desde la caseta de acceso del campus.
 
-Entregado
+`Entregado`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏫 [UMB Temascalcingo](https://github.com/soyalvadios/umb-temascalcingo)
+
+Landing institucional de mi propia universidad. HTML, CSS y JavaScript puro, sin frameworks, enfoque KISS y diseño responsivo.
+
+`Entregado` · HTML · CSS · JS
 
 </td>
 </tr>
 </table>
 
+<sub>La mayoría de mis repositorios son privados porque son código de clientes. Lo que se puede abrir, está abierto: <a href="https://github.com/soyalvadios?tab=repositories">ver todos los públicos</a>.</sub>
+
+---
+
+## Infraestructura propia
+
+No alquilo un panel: administro el servidor.
+
+```text
+VPS Linux          nginx como reverse proxy, un vhost por subdominio
+Procesos           pm2 con arranque en boot y reinicio ante fallo
+TLS                certbot / Let's Encrypt, renovación automática
+DNS                zona propia en colibries.world, un host por proyecto
+Despliegue         estático en Vercel, dinámico en el VPS
+Respaldos          base de datos y archivos, programados
+```
+
+| Dónde vivo en línea | Qué es |
+|---|---|
+| [soyalvadios.colibries.world](https://soyalvadios.colibries.world/) | Portafolio en español |
+| [soyalvadios.colibries.world/en](https://soyalvadios.colibries.world/en/) | Portafolio en inglés |
+| [delfin.colibries.world](https://delfin.colibries.world/) | Acompáñame en el Programa Delfín 2026 |
+
 ---
 
 ## Programa Delfín 2026
 
-Participé en el **XXXI Verano de la Investigación Científica y Tecnológica del Pacífico** con *Acompáñame*, asesorado por la UAEMéx, y presenté el cartel en el Congreso Internacional con la delegación de la Universidad Mexiquense del Bicentenario, sede Temascalcingo.
+Participé en el **XXXI Verano de la Investigación Científica y Tecnológica del Pacífico** con *Acompáñame*, asesorado por la **UAEMéx**, y presenté el cartel en el Congreso Internacional con la delegación de la Universidad Mexiquense del Bicentenario, sede Temascalcingo.
 
-La crónica y las fotos: **[soyalvadios.colibries.world/#delfin](https://soyalvadios.colibries.world/#delfin)**
+Crónica y fotos: **[soyalvadios.colibries.world/#delfin](https://soyalvadios.colibries.world/#delfin)**
 
 > A quien dude en aplicar: hazlo. El programa regresa más de lo que uno le lleva.
 
@@ -177,6 +225,7 @@ Precio y plazo por escrito, sin compromiso.
 
 <a href="mailto:alvaradoccdavid@hotmail.com"><img src="https://img.shields.io/badge/alvaradoccdavid@hotmail.com-0F172A?style=for-the-badge&logo=maildotru&logoColor=white" alt="Correo"></a>
 <a href="https://soyalvadios.colibries.world/"><img src="https://img.shields.io/badge/Portafolio-1D4ED8?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portafolio"></a>
+<a href="https://www.instagram.com/soy_alvadios/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 <sub><a href="https://soyalvadios.colibries.world/en/">Read this in English on my site →</a></sub>
 
